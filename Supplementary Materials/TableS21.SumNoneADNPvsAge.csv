@@ -1,0 +1,12 @@
+tissue,estimate,p.value,adj.p.value,significance
+Brain_Frontal_Cortex_BA9,-0.257764042,0.008431249,0.370974972,0
+Brain_Anterior_cingulate_cortex_BA24,-0.308667236,0.007319001,0.322036026,0
+Brain_Hippocampus,-0.260909866,0.010382157,0.45681489,0
+Brain_Amygdala,-0.272234881,0.039644267,1,0
+Brain_Hypothalamus,0.052311362,0.609016785,1,0
+Brain_Nucleus_accumbens_basal_ganglia,-0.071596188,0.468705698,1,0
+Brain_Putamen_basal_ganglia,0.081502276,0.383250386,1,0
+Brain_Caudate_basal_ganglia,0.00069544,0.993096366,1,0
+Brain_Substantia_nigra,-0.257906362,0.035458963,1,0
+Brain_Cerebellar_Hemisphere,-0.074193826,0.436043156,1,0
+Brain_Cerebellum,-0.138933077,0.117550263,1,0
